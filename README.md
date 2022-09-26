@@ -1,3 +1,4 @@
+![](https://github.com/Kai0071/Kai0071/blob/main/Github%20%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kai</h1>
 <h3 align="center">Love you 3000</h3>
 
