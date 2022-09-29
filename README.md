@@ -1,6 +1,27 @@
 ![](https://github.com/Kai0071/Kai0071/blob/main/Github%20%20Banner.png)
-<h1 align="center">Hi 👋, I'm Kai</h1>
-<h3 align="center">Love you 3000</h3>
+
+
+
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+i+am+Kai;Nice+to+meet+ya!!"
+            alt="Typing SVG"
+        /
+        >
+    </a>
+</p>
+</div>
+
+
+<h2 align="center"></h2>
+<h2 align="center"></h2>
+
+<div align="center">
+  <img border-radius: 15px src="https://media1.giphy.com/media/XqVUeEK5Lt3VOGEzJj/giphy.gif" width="300" height="150"/>
+  <p align="center">
+  <h2 align="center"></h2>
+  <h2 align="center"></h2>
+
 
 <img align="right" alt="coding" width="400"  src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
@@ -9,7 +30,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Linux, Programming, Web, etc.**
+<h3 align="left">About me:</h3>
+<p align="left">
+
+
+- 🌱 I’m currently a student
+
+- 🌱 I’m currently learning **Linux, Programming, (H4cking), etc. for my own interest**
 
 - 📫 How to reach me **Discord (link Comming Soon)**
 
@@ -27,3 +54,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kai0071&show_icons=true&locale=en" alt="kai0071" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kai0071&" alt="kai0071" /></p>
+
+
+<h2 align="center"> Running and improvig myself day by day...
+</h2>
+
+<p align="center"><a href="https://github.com/Kai0071">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+
