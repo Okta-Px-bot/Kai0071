@@ -12,8 +12,12 @@
 </p>
 </div>
 
-### Now Playing
-<img src="https://novatorem-mu-three.vercel.app/api/spotify" alt="My Playing" wedth="350" />
+
+
+</p>
+<h1 align="center"> Now Playing
+</h1>
+<p align="center"> <img src="https://novatorem-mu-three.vercel.app/api/spotify" alt="kai0071" /> </p>
 
 
 
