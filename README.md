@@ -12,7 +12,8 @@
 </p>
 </div>
 
-
+### Now Playing
+<img src="https://novatorem-mu-three.vercel.app/api/spotify" alt="My Playing" wedth="350" />
 
 
 
