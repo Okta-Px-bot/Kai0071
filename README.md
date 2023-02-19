@@ -63,12 +63,12 @@ about_me()
 - ⚡ I’m currently working on [A17-BOT](https://github.com/Kai0071/A17)
     
 
-    
+    <br>
     
 # 📫 How to reach me:
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916297175943)  
    
-
+<br>
     
 
 <h3 align="left">Connect with me:</h3>
