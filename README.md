@@ -17,8 +17,8 @@
 
 
 </p>
-<h1 align="center"> Now Playing
-</h1>
+<h2 align="center"> Now listening on Spotify
+</h2>
 <p align="center"> <img src="https://novatorem-mu-three.vercel.app/api/spotify" alt="kai0071" /> </p>
 
 
