@@ -62,11 +62,11 @@ about_me()
 
 - 👻 Currently learning **Linux, Programming etc.** for my own interest.
 
-- 🙋🏻‍♂️ Active participant in **Hackerone & CTFs.**
+- ⚡ Active participant in **Hackerone & CTFs.**
 
 - ✨ Also curious about **WhatsApp Bot**.
 
-- ✨ Fun fact: I love to listen to **music** and watch **anime/movies/series.**
+- 🌀 Fun fact: I love to listen to **music** and watch **anime/movies/series.**
     
     <br>
     
