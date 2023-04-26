@@ -58,11 +58,15 @@ about_me()
 <h3 align="left">More:</h3>
 <p align="left">
 
-- 🙋🏻‍♂️ I am a student.
+- 🙋🏻‍♂️ I am a **student** and a passionate **self learner** :)
 
 - 👻 Currently learning **Linux, Programming etc.** for my own interest.
 
+- 🙋🏻‍♂️ Active participant in **Hackerone & CTFs.**
+
 - ✨ Also curious about **WhatsApp Bot**.
+
+- ✨ Fun fact: I love to listen to **music** and watch **anime/movies/series.**
     
     <br>
     
