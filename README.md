@@ -36,6 +36,8 @@
 <h3 align="left">About me:</h3>
 <p align="left">
 
+
+
 ```cmd
     
 def about_me():
@@ -48,7 +50,6 @@ def about_me():
 about_me()
 
 ```
-
 <br>
   
     
@@ -56,14 +57,36 @@ about_me()
 <h3 align="left">More:</h3>
 <p align="left">
 
-- 🌱 I’m currently a student...
+- 🌱 I’m currently a student.
 
-- 🌱 I’m currently learning **Linux, Programming, Web etc. for my own interest**
+- 🌱 I’m currently learning **Linux, Programming etc.** for my own interest.
 
 - ⚡ I’m currently working on [A17-BOT](https://github.com/Kai0071/A17)
     
-
     <br>
+    
+    
+    
+    
+    
+<h3 align="left">My Projects:</h3>
+<p align="left">
+    
+ - [A17 WhatsAapp Bot](https://github.com/Kai0071/A17)
+ - [A Powerful Bombing Tool](https://github.com/Kai0071/Super-Bombing)
+
+
+
+<h3 align="left">Team Projects:</h3>
+<p align="left">
+    
+ - [Atlas WhatsAapp Bot](https://github.com/FantoX001/Atlas-MD)
+ - [Atlas-Plugin WhatsAapp Bot](https://github.com/FantoX001/Atlas-MD-Plugin)
+   
+</p>
+    
+    
+   <br>
     
 # 📫 How to reach me:
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916297175943)  
