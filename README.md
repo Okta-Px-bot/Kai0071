@@ -54,14 +54,15 @@ about_me()
   
     
     
+
 <h3 align="left">More:</h3>
 <p align="left">
 
-- 🌱 I’m currently a student.
+- 🙋🏻‍♂️ I am a student.
 
-- 🌱 I’m currently learning **Linux, Programming etc.** for my own interest.
+- 👻 Currently learning **Linux, Programming etc.** for my own interest.
 
-- ⚡ I’m currently working on [A17-BOT](https://github.com/Kai0071/A17)
+- ✨ Also curious about **WhatsApp Bot**.
     
     <br>
     
