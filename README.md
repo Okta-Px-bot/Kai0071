@@ -17,7 +17,7 @@
 
 
 </p>
-<h2 align="center"> Now listening on Spotify
+<h2 align="center"> Now listening on Spotify.
 </h2>
 <p align="center"> <img src="https://novatorem-mu-three.vercel.app/api/spotify" alt="kai0071" /> </p>
 
@@ -60,7 +60,7 @@ about_me()
 
 - 🙋🏻‍♂️ I am a **student** and a passionate **self learner** :)
 
-- 👻 Currently learning **Linux, Programming etc.** for my own interest.
+- 👻 Currently learning **Linux, Coding etc.** for my own interest.
 
 - ⚡ Active participant in **Hackerone & CTFs.**
 
