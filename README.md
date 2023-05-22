@@ -112,7 +112,7 @@ about_me()
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kai0071&show_icons=true&locale=en" alt="kai0071" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kai0071&" alt="kai0071" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kai0071&" alt="kai0071" /> </p>
 
 
 <h2 align="center"> Running and improvig myself day by day...
