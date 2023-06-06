@@ -33,14 +33,14 @@
 <br>
 
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About me:  </h3>
 <p align="left">
 
 
 
 ```cmd
     
-def about_me():
+def about_me(): 
     
     name, runtime = "Kai...!!", 17
     location = "West Bengal, India"
