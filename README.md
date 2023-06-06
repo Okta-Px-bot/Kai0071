@@ -85,7 +85,7 @@ about_me()
 <h3 align="left">Team Projects:</h3>
 <p align="left">
     
- - [Atlas WhatsAapp Bot](https://github.com/FantoX001/Atlas-MD)
+ - [Atlas WhatsAapp Bot](https://github.com/FantoX001/Atlas-MD/releases/tag/v2.9.0)
  - [Atlas Plugin WhatsAapp Bot](https://github.com/FantoX001/Atlas-MD)
 </p>
     
