@@ -1,7 +1,5 @@
 ![](https://github.com/Kai0071/Kai0071/blob/main/Github%20%20Banner.png)
 
-
-
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hello...!!;I+Am+Kai...!!;Nice+to+meet+you...!!"
@@ -114,6 +112,9 @@ about_me()
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kai0071&show_icons=true&locale=en" alt="kai0071" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kai0071&" alt="kai0071" /> </p>
+
+
+<p align="center"> <img src="https://github.com/Kai0071/Kai0071/blob/output/github-contribution-grid-snake.svg" alt="kai0071" /> </p>
 
 
 <h2 align="center"> Running and improvig myself day by day...
