@@ -119,7 +119,7 @@ about_me()
 
 <p align="center">
   <a href="https://github.com/Kai0071">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kai0071&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=493&background=171515" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=Kai0071&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </p>
 
