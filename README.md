@@ -114,13 +114,15 @@ about_me()
 <br>
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=true">    <img  alt="Kai0071's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+  <a href="https://github.com/Kai0071">    <img  alt="Kai0071's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+
 
 <p align="center">
-  <a href="https://gitthub.com/Kai0071">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Kai0071&theme=dark">
+  <a href="https://github.com/Kai0071">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kai0071&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=493&background=171515" alt="GitHub Streak">
   </a>
 </p>
+
 
 
 <p align="center">
