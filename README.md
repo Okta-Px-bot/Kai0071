@@ -1,7 +1,7 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey there!;It's me, Kai!;Welcome;To my GitHub world!🚀"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+Kai!;Welcome;To+my+GitHub+world!🚀"
             alt="Typing SVG"
         /
         >
@@ -114,11 +114,7 @@ about_me()
 <br>
 
 <p align="center">
-<a href="https://gitthub.com/Kai0071">
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Kai0071&theme=dark&show_icons=true&hide_border=false&count_private=true">
-</a>
-</p>
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=true">    <img  alt="Kai0071's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
 <p align="center">
   <a href="https://gitthub.com/Kai0071">
