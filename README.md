@@ -128,7 +128,7 @@ about_me()
 
  <p align="center">
     <a href="https://github.com/Kai0071">
-        <img width="100%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Kai0071&theme=redical"/>
+        <img alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Kai0071&theme=redical"/>
     </a>
 
 
