@@ -113,8 +113,10 @@ about_me()
 
 <br>
 
+
 <p align="center">
-  <a href="https://github.com/Kai0071">    <img  alt="Kai0071's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+  <a href="https://github.com/Kai0071"> <img  alt="Kai0071's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+
 
 
 <p align="center">
@@ -123,6 +125,11 @@ about_me()
   </a>
 </p>
 
+
+ <p align="center">
+    <a href="https://github.com/Kai0071">
+        <img width="100%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Kai0071&theme=redical"/>
+    </a>
 
 
 
