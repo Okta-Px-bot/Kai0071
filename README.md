@@ -10,78 +10,57 @@
 </div>
 
 
-
-
 <h2 align="center"></h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kai0071&label=Profile%20views&color=0e75b6&style=flat" alt="kai0071" /> </p>
 
-
 <br>
 
+</p> 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/76661641?v=4" alt="Your Profile Picture" width="200" height="200">
 
-<h3 align="left">About me:  </h3>
-<p align="left">
+  <br>
 
-
-
-```cmd
-    
-def about_me(): 
-    
-    name, runtime = "Kai...!!", 17
-    location = "Tata City, India"
-    version = "Introvert..."
-    print("Name: {}\nRuntime: {}\nLocation: {}\nVersion: {}".format(name, runtime, location, version))
-
-about_me()
-
-```
-<br>
+  <p>👋 Hey there! I'm a <strong>student</strong> with a passion for all things tech.</p>
   
-    
-    
-
-<h3 align="left">More:</h3>
-<p align="left">
-
-- 🙋🏻‍♂️ I am a **student** and a passionate **self learner** :)
-
-- 👻 Currently learning **Linux, Programming etc.** for my own interest.
-
-- ⚡ A̶c̶t̶i̶v̶e̶ ̶p̶a̶r̶t̶i̶c̶i̶p̶a̶n̶t̶ ̶i̶n̶ ̶*̶*̶H̶a̶c̶k̶e̶r̶o̶n̶e̶ ̶&̶ ̶C̶T̶F̶s̶.̶*̶*̶
-
-
-- ✨ Also curious about **WhatsApp Bot**.
-
-- 🌀 Fun fact: I love to listen to **music** and watch **anime/movies/series.**
-    
-    <br>
-    
-    
-    
-    
-    
-<h3 align="left">My Projects:</h3>
-<p align="left">
-    
- - [Animages](https://animages.vercel.app/)
-
- - [A17 WhatsAapp Bot](https://github.com/Kai0071/A17)
-
- - [A Powerful Bombing Tool](https://github.com/Kai0071/Super-Bombing)
+  - 🙋🏻‍♂️ I am a **student** and a passionate **self learner** :)
+  - ✨ Also curious about **WhatsApp Bot**.
+  - 🐧 Linux: Exploring **Linux** to understand **operating systems** better.
+  - 💻 Programming: Learning **C** and **Web technologies** for **practical skills.**
   
- - [Music 24/7 Radio on YT](https://www.youtube.com/live/EBmERK5SUek?feature=share)
- 
- - [Free Proxy List Update Every 1 Hours](https://github.com/Kai0071/Proxy)
+  
+  - 🌀 Fun fact: I love to listen to **music** and watch **anime/movies/series.**
+</div>
 
+<p align="center">🌟 If you share any of these interests or want to collaborate, feel free to connect with me!</p>
 
-<h3 align="left">Team Projects:</h3>
-<p align="left">
-    
- - [Atlas WhatsAapp Bot](https://github.com/FantoX001/Atlas-MD/releases/tag/v2.9.0)
- - [Atlas Plugin WhatsAapp Bot](https://github.com/FantoX001/Atlas-MD)
+<p align="center">
+  <a href="https://wa.me/916297175943"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
+  <a href="Your_Website_Link"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="30" height="30"></a>
 </p>
+
+    
+<br>
+
+    
+<div align="center">
+  <h3>My Projects:</h3>
+
+  - [Animages](https://animages.vercel.app/)
+  - [A17 WhatsAapp Bot](https://github.com/Kai0071/A17)
+  - [A Powerful Bombing Tool](https://github.com/Kai0071/Super-Bombing)
+  - [Music 24/7 Radio on YT](https://www.youtube.com/live/EBmERK5SUek?feature=share)
+  - [Free Proxy List Update Every 1 Hour](https://github.com/Kai0071/Proxy)
+</div>
+
+<div align="center">
+  <h3>Team Projects:</h3>
+
+  - [Atlas WhatsAapp Bot](https://github.com/FantoX001/Atlas-MD/releases/tag/v2.9.0)
+  - [Atlas Plugin WhatsAapp Bot](https://github.com/FantoX/Atlas-MD)
+</div>
+
 
    <br>
 
@@ -95,20 +74,67 @@ about_me()
 <h2 align="center"></h2>
 
 
-# 📫 How to reach me:
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916297175943)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kai_ahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kai_ahir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/linux soul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="linux soul" height="30" width="40" /></a>
-</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+</div>
+
+###
+
 
 
 <br>
 
 
-<h2 align="center"></h2>
+<!-- 
+<h2 align="center"></h2> -->
 
 
 <br>
@@ -136,8 +162,9 @@ about_me()
 <p align="center"><a href="https://github.com/Kai0071"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kai0071&theme=radical&layout=compact"></a></p> 
 
 
-<p align="center"> <img src="https://github.com/Kai0071/Kai0071/blob/output/github-contribution-grid-snake.svg" alt="kai0071" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Kai0071/Kai0071/output/snake.svg" alt="kai0071" /> </p>
 
+###
 
 <h2 align="center"> Running and improvig myself day by day...
 </h2>
