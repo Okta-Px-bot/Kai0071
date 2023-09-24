@@ -18,7 +18,7 @@
 
 </p> 
 <div align="center">
-  <img src="https://telegra.ph/file/4bad7a8d36ae2c68794ac.jpg" alt="Your Profile Picture" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/76661641?v=4" alt="Your Profile Picture" width="200" height="200">
 
   <br>
 
