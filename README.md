@@ -12,13 +12,13 @@
 
 <h2 align="center"></h2>
 
-<p align="center"> <img src="https://telegra.ph/file/4bad7a8d36ae2c68794ac.jpg" alt="kai0071" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kai0071&label=Profile%20views&color=0e75b6&style=flat" alt="kai0071" /> </p>
 
 <br>
 
 </p> 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/76661641?v=4" alt="Your Profile Picture" width="200" height="200">
+  <img src="https://telegra.ph/file/4bad7a8d36ae2c68794ac.jpg" alt="Your Profile Picture" width="200" height="200">
 
   <br>
 
