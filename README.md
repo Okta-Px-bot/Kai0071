@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://wa.me/916297175943"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
-  <a href="Your_Website_Link"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="30" height="30"></a>
+  <a href="https://youtube.com/@linuxsoul?si=McGP13l4BEz-NjRU"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="30" height="30"></a>
 </p>
 
     
