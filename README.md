@@ -24,7 +24,7 @@
 
   <p>👋 Hey there! I'm a <strong>student</strong> with a passion for tech things.</p>
 
-   - ✨ 👀 I’m interested in Whatsapp Bot, Linux, Raspberry Pi
+   - 👀 I’m interested in Whatsapp Bot, Linux, Raspberry Pi
 
   - 🍃 Currently studying BCA with specialization in Artificial intelligence & Machine Learning at Arka Jain University, Jamshedpur
 
