@@ -18,19 +18,21 @@
 
 </p> 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/76661641?v=4" alt="Your Profile Picture" width="200" height="200">
+  <!-- <img src="https://avatars.githubusercontent.com/u/76661641?v=4" alt="Your Profile Picture" width="200" height="200"> -->
 
   <br>
 
-  <p>👋 Hey there! I'm a <strong>student</strong> with a passion for all things tech.</p>
+  <p>👋 Hey there! I'm a <strong>student</strong> with a passion for tech things.</p>
+
+   - ✨ 👀 I’m interested in Whatsapp Bot, Linux, Raspberry Pi
+
+  - 🍃 Currently studying BCA with specialization in Artificial intelligence & Machine Learning at Arka Jain University, Jamshedpur
+
   
-  - 🙋🏻‍♂️ I am a **student** and a passionate **self learner** :)
-  - ✨ Also curious about **WhatsApp Bot**.
-  - 🐧 Linux: Exploring **Linux** to understand **operating systems** better.
-  - 💻 Programming: Learning **C** and **Web technologies** for **practical skills.**
+  - 💻 Currently Learning **C** and Web technologies for practical skills.
   
   
-  - 🌀 Fun fact: I love to listen to **music** and watch **anime/movies/series.**
+  - 🌀 Fun fact: I love to listen to music and watch anime/movies/series.
 </div>
 
 <p align="center">🌟 If you share any of these interests or want to collaborate, feel free to connect with me!</p>
@@ -41,25 +43,6 @@
 </p>
 
     
-<br>
-
-    
-<div align="center">
-  <h3>My Projects:</h3>
-
-  - [Animages](https://animages.vercel.app/)
-  - [A17 WhatsAapp Bot](https://github.com/Kai0071/A17)
-  - [A Powerful Bombing Tool](https://github.com/Kai0071/Super-Bombing)
-  - [Music 24/7 Radio on YT](https://www.youtube.com/live/EBmERK5SUek?feature=share)
-  - [Free Proxy List Update Every 1 Hour](https://github.com/Kai0071/Proxy)
-</div>
-
-<div align="center">
-  <h3>Team Projects:</h3>
-
-  - [Atlas WhatsAapp Bot](https://github.com/FantoX001/Atlas-MD/releases/tag/v2.9.0)
-  - [Atlas Plugin WhatsAapp Bot](https://github.com/FantoX/Atlas-MD)
-</div>
 
 
    <br>
