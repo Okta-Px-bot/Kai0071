@@ -114,13 +114,13 @@
 </p>
 
 
- <p align="center">
+ <!-- <p align="center">
     <a href="https://github.com/Kai0071">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kai0071&theme=redical" alt="Stats">
     </a>
-</p>
+</p> -->
 
 
-<p align="center"><a href="https://github.com/Kai0071"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kai0071&theme=radical&layout=compact"></a></p> 
+<!-- <p align="center"><a href="https://github.com/Kai0071"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kai0071&theme=radical&layout=compact"></a></p>  -->
 
 
