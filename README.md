@@ -12,13 +12,13 @@
 
 <h2 align="center"></h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kai0071&label=Profile%20views&color=0e75b6&style=flat" alt="kai0071" /> </p>
+<p align="center"> <img src="https://telegra.ph/file/ff129cf44361a0338c06c.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block" alt="kai0071"/> </p>
 
 <br>
 
 <p align="center">
-  <a href="https://wa.me/916297175943"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
-  <a href="https://youtube.com/@linuxsoul?si=McGP13l4BEz-NjRU"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="30" height="30"></a>
+  <a href="https://wa.me/6285150650411"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="60" height="60"></a>
+  <a href="https://youtube.com/@linuxsoul?si=McGP13l4BEz-NjRU"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="60" height="60"></a>
 </p>
 
     
@@ -103,12 +103,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/Kai0071"> <img  alt="Kai0071's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+  <a href="https://github.com/Okta-Px-bot"> <img  alt="Kai0071's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
 
 
 <p align="center">
-  <a href="https://github.com/Kai0071">
+  <a href="https://github.com/Okta-Px-bot">
     <img src="https://streak-stats.demolab.com?user=Kai0071&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </p>
