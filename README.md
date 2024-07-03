@@ -1,7 +1,7 @@
 +
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=70&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+Kai!;Welcome;To+my+GitHub+world!🚀"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=70&duration=5997&color=993300&background=FF673200&center=true&vCenter=true&lines=Welcome;To;my+Github+🍃"
             alt="Typing SVG"
         /
         >
@@ -12,13 +12,13 @@
 
 <h2 align="center"></h2>
 
-<p align="center"> <img src="https://telegra.ph/file/ff129cf44361a0338c06c.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block" alt="kai0071"/> </p>
+<p align="center"> <img src="https://telegra.ph/file/ff129cf44361a0338c06c.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block"/> </p>
 
 <br>
 
 <p align="center">
-  <a href="https://wa.me/6285150650411"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="60" height="60"></a>
-  <a href="https://youtube.com/@linuxsoul?si=McGP13l4BEz-NjRU"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="60" height="60"></a>
+  <a href="https://wa.me/6285150650411"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="70" height="70"></a>
+  <a href="https://youtube.com/@linuxsoul?si=McGP13l4BEz-NjRU"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="70" height="70"></a>
 </p>
 
     
@@ -29,7 +29,7 @@
    </p>
 <h2 align="center"> 💫 Now Listening On Spotify 💫
 </h2>
-<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
+<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" /> </p>
 
  
  <BR>
