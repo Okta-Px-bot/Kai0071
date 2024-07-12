@@ -21,18 +21,6 @@
   <a href="https://youtube.com/@linuxsoul?si=McGP13l4BEz-NjRU"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="70" height="70"></a>
 </p>
 
-    
-
-
-   <br>
-
-   </p>
-<h2 align="center"> 💫 Now Listening On Spotify 💫
-</h2>
-<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" /> </p>
-
- 
- <BR>
 <h2 align="center"></h2>
 
 
